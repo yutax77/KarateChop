@@ -1,5 +1,7 @@
 package com.yutax77
 
-object Karatechop extends App {
-  println("Hello, KarateChop")
+object KarateChop {
+    def chop(target:Int, array:Array[Int]):Int = {
+        return -1
+    }
 }
